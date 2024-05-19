@@ -1,0 +1,15 @@
+.sideBarBig {
+  height: 100vh;
+  width: 16vw;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 2px solid red;
+}
+.sideBarSmall {
+  height: 100vh;
+  width: 5vw;
+  border: 2px solid red;
+  box-sizing: border-box;
+}

@@ -1,0 +1,26 @@
+.dashboardOuterContainer {
+  box-sizing: border-box;
+  /* width: 100vw;
+  height: 100vh; */
+  display: flex;
+  flex-direction: row;
+}
+.dashboardInnerSidebarBig {
+  width: 83.944445vw;
+  box-sizing: border-box;
+  /* border: 2px solid red; */
+  display: flex;
+  flex-direction: column;
+}
+.dashboardInnerSidebarSmall {
+  width: 95vw;
+  box-sizing: border-box;
+  /* border: 2px solid red; */
+  display: flex;
+  flex-direction: column;
+}
+.dashboardDataCardContainer {
+  /* border: 2px solid    black; */
+  height: 91.3vh;
+  box-sizing: border-box;
+}
